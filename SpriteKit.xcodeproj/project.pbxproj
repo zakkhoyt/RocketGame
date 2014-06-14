@@ -13,6 +13,17 @@
 		CF40C094194BE34400B0A7F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF40C092194BE34400B0A7F5 /* Main.storyboard */; };
 		CF40C096194BE34400B0A7F5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF40C095194BE34400B0A7F5 /* Images.xcassets */; };
 		CF40C0A2194BE34400B0A7F5 /* SpriteKitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF40C0A1194BE34400B0A7F5 /* SpriteKitTests.m */; };
+		CF40C0AD194BE3DE00B0A7F5 /* MyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF40C0AC194BE3DE00B0A7F5 /* MyScene.m */; };
+		CF40C0E4194BE5BE00B0A7F5 /* assets.atlas in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0DE194BE5BE00B0A7F5 /* assets.atlas */; };
+		CF40C0E5194BE5BE00B0A7F5 /* bg@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0E0194BE5BE00B0A7F5 /* bg@2x~ipad.png */; };
+		CF40C0E6194BE5BE00B0A7F5 /* bg@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0E1194BE5BE00B0A7F5 /* bg@2x~iphone.png */; };
+		CF40C0E7194BE5BE00B0A7F5 /* bg~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0E2194BE5BE00B0A7F5 /* bg~ipad.png */; };
+		CF40C0E8194BE5BE00B0A7F5 /* bg~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0E3194BE5BE00B0A7F5 /* bg~iphone.png */; };
+		CF40C0EA194BE78900B0A7F5 /* BackgroundScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0E9194BE78900B0A7F5 /* BackgroundScene.sks */; };
+		CF40C0EC194BE7C600B0A7F5 /* cobblestone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CF40C0EB194BE7C600B0A7F5 /* cobblestone.jpg */; };
+		CF7A5156194BEBEB00304801 /* HelloScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF7A5155194BEBEB00304801 /* HelloScene.m */; };
+		CF7A5159194BED0E00304801 /* SpaceshipScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF7A5158194BED0E00304801 /* SpaceshipScene.m */; };
+		CF7A515B194BF28900304801 /* rocket.png in Resources */ = {isa = PBXBuildFile; fileRef = CF7A515A194BF28900304801 /* rocket.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +49,20 @@
 		CF40C09B194BE34400B0A7F5 /* SpriteKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpriteKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF40C0A0194BE34400B0A7F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF40C0A1194BE34400B0A7F5 /* SpriteKitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpriteKitTests.m; sourceTree = "<group>"; };
+		CF40C0AB194BE3DE00B0A7F5 /* MyScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyScene.h; sourceTree = "<group>"; };
+		CF40C0AC194BE3DE00B0A7F5 /* MyScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
+		CF40C0DE194BE5BE00B0A7F5 /* assets.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = assets.atlas; sourceTree = "<group>"; };
+		CF40C0E0194BE5BE00B0A7F5 /* bg@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg@2x~ipad.png"; sourceTree = "<group>"; };
+		CF40C0E1194BE5BE00B0A7F5 /* bg@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg@2x~iphone.png"; sourceTree = "<group>"; };
+		CF40C0E2194BE5BE00B0A7F5 /* bg~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg~ipad.png"; sourceTree = "<group>"; };
+		CF40C0E3194BE5BE00B0A7F5 /* bg~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg~iphone.png"; sourceTree = "<group>"; };
+		CF40C0E9194BE78900B0A7F5 /* BackgroundScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BackgroundScene.sks; sourceTree = "<group>"; };
+		CF40C0EB194BE7C600B0A7F5 /* cobblestone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cobblestone.jpg; sourceTree = "<group>"; };
+		CF7A5154194BEBEB00304801 /* HelloScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloScene.h; sourceTree = "<group>"; };
+		CF7A5155194BEBEB00304801 /* HelloScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloScene.m; sourceTree = "<group>"; };
+		CF7A5157194BED0E00304801 /* SpaceshipScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpaceshipScene.h; sourceTree = "<group>"; };
+		CF7A5158194BED0E00304801 /* SpaceshipScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpaceshipScene.m; sourceTree = "<group>"; };
+		CF7A515A194BF28900304801 /* rocket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rocket.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +104,7 @@
 		CF40C087194BE34400B0A7F5 /* SpriteKit */ = {
 			isa = PBXGroup;
 			children = (
+				CF40C0DD194BE5BE00B0A7F5 /* Resources */,
 				CF40C08C194BE34400B0A7F5 /* AppDelegate.h */,
 				CF40C08D194BE34400B0A7F5 /* AppDelegate.m */,
 				CF40C08F194BE34400B0A7F5 /* ViewController.h */,
@@ -86,6 +112,13 @@
 				CF40C092194BE34400B0A7F5 /* Main.storyboard */,
 				CF40C095194BE34400B0A7F5 /* Images.xcassets */,
 				CF40C088194BE34400B0A7F5 /* Supporting Files */,
+				CF40C0AB194BE3DE00B0A7F5 /* MyScene.h */,
+				CF40C0AC194BE3DE00B0A7F5 /* MyScene.m */,
+				CF40C0E9194BE78900B0A7F5 /* BackgroundScene.sks */,
+				CF7A5154194BEBEB00304801 /* HelloScene.h */,
+				CF7A5155194BEBEB00304801 /* HelloScene.m */,
+				CF7A5157194BED0E00304801 /* SpaceshipScene.h */,
+				CF7A5158194BED0E00304801 /* SpaceshipScene.m */,
 			);
 			path = SpriteKit;
 			sourceTree = "<group>";
@@ -114,6 +147,28 @@
 				CF40C0A0194BE34400B0A7F5 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CF40C0DD194BE5BE00B0A7F5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CF7A515A194BF28900304801 /* rocket.png */,
+				CF40C0EB194BE7C600B0A7F5 /* cobblestone.jpg */,
+				CF40C0DE194BE5BE00B0A7F5 /* assets.atlas */,
+				CF40C0DF194BE5BE00B0A7F5 /* backgrounds */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CF40C0DF194BE5BE00B0A7F5 /* backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				CF40C0E0194BE5BE00B0A7F5 /* bg@2x~ipad.png */,
+				CF40C0E1194BE5BE00B0A7F5 /* bg@2x~iphone.png */,
+				CF40C0E2194BE5BE00B0A7F5 /* bg~ipad.png */,
+				CF40C0E3194BE5BE00B0A7F5 /* bg~iphone.png */,
+			);
+			path = backgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,8 +251,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF40C0E5194BE5BE00B0A7F5 /* bg@2x~ipad.png in Resources */,
+				CF7A515B194BF28900304801 /* rocket.png in Resources */,
 				CF40C094194BE34400B0A7F5 /* Main.storyboard in Resources */,
 				CF40C096194BE34400B0A7F5 /* Images.xcassets in Resources */,
+				CF40C0E7194BE5BE00B0A7F5 /* bg~ipad.png in Resources */,
+				CF40C0E4194BE5BE00B0A7F5 /* assets.atlas in Resources */,
+				CF40C0E6194BE5BE00B0A7F5 /* bg@2x~iphone.png in Resources */,
+				CF40C0EA194BE78900B0A7F5 /* BackgroundScene.sks in Resources */,
+				CF40C0EC194BE7C600B0A7F5 /* cobblestone.jpg in Resources */,
+				CF40C0E8194BE5BE00B0A7F5 /* bg~iphone.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,9 +278,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF7A5156194BEBEB00304801 /* HelloScene.m in Sources */,
+				CF40C0AD194BE3DE00B0A7F5 /* MyScene.m in Sources */,
 				CF40C091194BE34400B0A7F5 /* ViewController.m in Sources */,
 				CF40C08E194BE34400B0A7F5 /* AppDelegate.m in Sources */,
 				CF40C08B194BE34400B0A7F5 /* main.m in Sources */,
+				CF7A5159194BED0E00304801 /* SpaceshipScene.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -404,6 +470,7 @@
 				CF40C0A7194BE34400B0A7F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF40C0A8194BE34400B0A7F5 /* Build configuration list for PBXNativeTarget "SpriteKitTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +479,7 @@
 				CF40C0AA194BE34400B0A7F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

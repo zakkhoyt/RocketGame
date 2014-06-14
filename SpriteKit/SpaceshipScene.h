@@ -8,6 +8,6 @@
 
 #import <SpriteKit/SpriteKit.h>
 
-@interface SpaceshitScene : SKScene
+@interface SpaceshipScene : SKScene
 
 @end
